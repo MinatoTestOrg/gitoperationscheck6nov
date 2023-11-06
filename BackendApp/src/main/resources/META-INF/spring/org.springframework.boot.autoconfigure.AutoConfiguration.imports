@@ -1,0 +1,3 @@
+com.minatoorgtestcase.gitoperationcheck6nov.config.ApplicationRepositoriesAutoConfiguration
+com.minatoorgtestcase.gitoperationcheck6nov.config.ApplicationTransactionManagersAutoConfig
+com.minatoorgtestcase.gitoperationcheck6nov.config.ApplicationProvidersAutoConfiguration
